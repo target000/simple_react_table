@@ -24,11 +24,13 @@ const FlatButtonExampleComplex = () => (
     <FlatButton label="Choose an Image" labelPosition="before" style={styles.uploadButton} containerElement="label">
       <input type="file" style={styles.uploadInput} />
     </FlatButton>
+
     <FlatButton label="Label before" labelPosition="before" primary={true} icon={<ActionAndroid />} />
+
     <FlatButton
-      href="https://github.com/callemall/material-ui"
+      href="https://www.pornhub.com/video/search?search=full+movie+pronhub"
       target="_blank"
-      label="GitHub Link"
+      label="PORNHUB ==> Oorah!"
       secondary={true}
       icon={<FontIcon className="muidocs-icon-custom-github" />}
     />

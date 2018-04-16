@@ -12,29 +12,24 @@ export default () => (
     </TableHeader>
     <TableBody>
       <TableRow>
-        <TableRowColumn>1</TableRowColumn>
-        <TableRowColumn>John Smith</TableRowColumn>
-        <TableRowColumn>Employed</TableRowColumn>
-      </TableRow>
-      <TableRow>
         <TableRowColumn>2</TableRowColumn>
-        <TableRowColumn>Randal White</TableRowColumn>
-        <TableRowColumn>Unemployed</TableRowColumn>
+        <TableRowColumn>Chesty Puller</TableRowColumn>
+        <TableRowColumn>Nailed Japs hard</TableRowColumn>
       </TableRow>
       <TableRow>
         <TableRowColumn>3</TableRowColumn>
-        <TableRowColumn>Xi LU</TableRowColumn>
-        <TableRowColumn>Awesome dude</TableRowColumn>
+        <TableRowColumn>Xi Lu - Maj. Lu</TableRowColumn>
+        <TableRowColumn>Active Duty, Shipped to warzone</TableRowColumn>
       </TableRow>
       <TableRow>
         <TableRowColumn>4</TableRowColumn>
-        <TableRowColumn>Steve Brown</TableRowColumn>
-        <TableRowColumn>Employed</TableRowColumn>
+        <TableRowColumn>Capt. Price</TableRowColumn>
+        <TableRowColumn>Old fart still kicking</TableRowColumn>
       </TableRow>
       <TableRow>
         <TableRowColumn>5</TableRowColumn>
-        <TableRowColumn>Christopher Nolan</TableRowColumn>
-        <TableRowColumn>Unemployed</TableRowColumn>
+        <TableRowColumn>Suckerburg</TableRowColumn>
+        <TableRowColumn>Facefucked.com</TableRowColumn>
       </TableRow>
     </TableBody>
   </Table>
