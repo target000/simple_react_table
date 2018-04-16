@@ -13,4 +13,12 @@ app.get("/", (req, res) => {
   res.sendFile(path.join(__dirname + "/build/index.html"));
 });
 
+app.get("/hello", (req, res) => {
+  res.send("Hello world");
+});
+
+app.get("/goodbye", (req, res) => {
+  res.send("Bye and Have a nice day!");
+});
+
 app.listen(port, () => console.log(`Listening on port ${port}`));
